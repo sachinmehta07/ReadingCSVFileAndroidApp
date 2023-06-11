@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    //DownOAD CSV From-Internet
+    //Download CSV From-Internet
 
     private void downloadAndDisplayCSVFromInternet() {
         // Replace the URL with the actual URL of the CSV file
